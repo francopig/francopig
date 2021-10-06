@@ -4,7 +4,7 @@
          width="45" />, I'm Franco Pignanelli</h1>
 
 - 👨‍🎓 I am studying ***Computer Science*** at the UNO College.
-- 👨🏻‍💻 I'm stuyding ***Web Development*** on my own
+- 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own
 - 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming***
 
 
