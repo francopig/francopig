@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Franco Pignanelli</h1>
 
-- 👨‍🎓 I am studying ***Computer Science*** at the UNO College.
+- 👨‍🎓 I am studying ***Computer Science*** at [***UNO College***](http://www.uno.edu.ar).
 - 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own
 - 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming***
 
