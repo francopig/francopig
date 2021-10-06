@@ -8,6 +8,8 @@
 - 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming***
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=francopig.visitor-badge.issue.1)
+
 **Contact me:** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/francopignanelli/)
@@ -17,5 +19,7 @@
 
 
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='esnaque'/><p/>
+
+
 
 <!-- ![YouTube Channel Views](https://img.shields.io/github/followers/francopig?color=d&label=boludos%20que%20me%20siguen&logoColor=d&style=social) -->
