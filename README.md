@@ -16,6 +16,6 @@
 
 
 
-<p align="center"><img src='https://svgshare.com/i/arP.svg' title='esnaque'/><p/>
+<p align="center"><img src='https://svgshare.com/i/aru.svg' title='esnaque'/><p/>
 
 <!-- ![YouTube Channel Views](https://img.shields.io/github/followers/francopig?color=d&label=boludos%20que%20me%20siguen&logoColor=d&style=social) -->
