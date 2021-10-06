@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/francopignanelli/)
 <a href="mailto:francopignanelli@outlook.com" target="_blanket">![Email Badge](https://img.shields.io/badge/Email-1?style=for-the-badge&logo=appveyor)<a/>
-<a href="https://www.youtube.com/c/asimovcode">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_jmqkyRwFyoC3_FWpVdVQ?label=Asimov%20Code&style=for-the-badge)<a/>
+<a href="https://www.youtube.com/c/asimovcode" target="_blanket">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_jmqkyRwFyoC3_FWpVdVQ?label=Asimov%20Code&style=for-the-badge)<a/>
 <img height="40px" width="40px" src="https://user-images.githubusercontent.com/68193510/136159045-50a59747-0aea-4381-b7b0-f798c2a29ca3.png" href="https://www.youtube.com/c/asimovcode">
 
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='esnaque'/><p/>
