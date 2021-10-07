@@ -7,7 +7,7 @@
 - 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own
 - 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming***
 
-**Find me on:** 
+**How to reach me:** 
 <!-- Social badges -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/francopignanelli/)
 <a href="mailto:francopignanelli@outlook.com" target="_blank">
