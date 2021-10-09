@@ -17,11 +17,13 @@
          
 <!-- estadisticas de github -->         
 ## 🪐 Streak stats
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=francopig&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&background=00000027&stroke=0072B1&border=0072B1&ring=0072B1&fire=DD2727&currStreakNum=DD2727&sideNums=0072B1&currStreakLabel=00A4FF"/>
-  </a>
-
-
+<section align="center">   
+         
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francopig&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0072B1&border=0072B1&currStreakLabel=0072B1&ring=0072B1)](https://git.io/streak-stats)
+         </section>
+         
+         
+         
 <!-- github snake  -->
 <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
 
