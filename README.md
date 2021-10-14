@@ -18,7 +18,6 @@
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
 
-<!-- **How to reach me:**  -->
 <h3>How to reach me:</h3>
 <!-- Social badges -->
 
@@ -38,7 +37,7 @@
          
          
 <!-- github snake  -->
-<p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/>
+<!-- <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/> -->
 
 
 <!-- contador de visitantes -->
