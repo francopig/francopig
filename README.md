@@ -34,14 +34,8 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francopig&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0072B1&border=0072B1&currStreakLabel=0072B1&ring=0072B1)
          </section>
          
-         
-         
-<!-- github snake  -->
-<!-- <p align="center"><img src='https://svgshare.com/i/aru.svg' title='snake'/><p/> -->
+ 
+        
+ <!-- contador de visitantes -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=francopig.visitor-badge.issue.1)    -->
 
-
-<!-- contador de visitantes -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=francopig.visitor-badge.issue.1)   
-         
-<!-- ![github followers Views](https://img.shields.io/github/followers/francopig?color=d&label=boludos%20que%20me%20siguen&logoColor=d&style=social) -->
-         
