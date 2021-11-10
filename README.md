@@ -1,8 +1,8 @@
 <h1 align="center">Hi There 👋 I'm Franco Pignanelli</h1> 
          
 - 👨‍🎓 I am studying ***Computer Science*** at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar).
-- 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own
-- 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming***
+- 👨🏻‍💻 Also I'm stuyding ***Web Development*** on my own.
+- 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming.***
 
 <!-- logos de tecnologías -->
 <h3>Technologies I work with</h3>
