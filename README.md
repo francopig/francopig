@@ -5,8 +5,7 @@
 - 🎥 Sometimes I record and edit videos for my Youtube channel about ***Programming.***
 
 <!-- logos de tecnologías -->
-<h3>Technologies I work with</h3>
-<!-- **Technologies I work with** -->
+<h3>Technologies I work with:</h3>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
