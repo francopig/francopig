@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/c/asimovcode"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/68193510/136159045-50a59747-0aea-4381-b7b0-f798c2a29ca3.png" href="https://www.youtube.com/c/asimovcode"><a/>
          
 <!-- estadisticas de github -->         
-## 🪐 Streak stats:
+## 🪐 Streak stats: 
 <section align="center">   
          
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francopig&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0072B1&border=0072B1&currStreakLabel=0072B1&ring=0072B1)
@@ -32,6 +32,6 @@
          
  
         
-<!--  contador de visitantes -->
+<!--  contador de visitantes  -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=francopig.visitor-badge.issue.1)   
 
