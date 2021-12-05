@@ -15,7 +15,7 @@
 
 
 <h3>How to reach me:</h3>
-<!-- Social badges -->
+<!-- Social badges-->
 
 ![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/francopignanelli/)
