@@ -14,7 +14,7 @@
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
 
-<h3>How to reach me: </h3>
+<h3>How to reach me:  </h3>
 <!-- Social badges  -->
 
 ![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
