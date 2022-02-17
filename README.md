@@ -15,7 +15,7 @@
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 
-<!-- Social badges  -->
+<!-- Social badges   -->
 <h3>How to reach me:  </h3>
 
 ![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
