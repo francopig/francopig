@@ -22,8 +22,8 @@
 ![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/francopignanelli/)
 <a href="mailto:francopignanelli@outlook.com" target="_blank">
-<a href="https://www.youtube.com/c/asimovcode" target="_blank">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_jmqkyRwFyoC3_FWpVdVQ?color=%230072b1&label=Asimov%20Code&style=for-the-badge)<a/> 
-<a href="https://www.youtube.com/c/asimovcode"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/68193510/136159045-50a59747-0aea-4381-b7b0-f798c2a29ca3.png" href="https://www.youtube.com/@asimovcode"><a/>
+<a href="https://www.youtube.com/@asimovcode" target="_blank">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_jmqkyRwFyoC3_FWpVdVQ?color=%230072b1&label=Asimov%20Code&style=for-the-badge)<a/> 
+<a href="https://www.youtube.com/@asimovcode"><img height="40px" width="40px" src="https://user-images.githubusercontent.com/68193510/136159045-50a59747-0aea-4381-b7b0-f798c2a29ca3.png" href="https://www.youtube.com/@asimovcode"><a/>
      
  
 <!--  estadisticas de github  -->         
