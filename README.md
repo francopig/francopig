@@ -31,9 +31,4 @@
          
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francopig&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0072B1&border=0072B1&currStreakLabel=0072B1&ring=0072B1)
          </section>
-         
- 
-         
-<!-- contador de visitante-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=francopig.visitor-badge.issue.1)   
 
