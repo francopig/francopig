@@ -18,7 +18,7 @@
 <!-- Social badges    -->
 <h3>How to reach me:  </h3>
 
-![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
+<a href="mailto:gonzafarias01@gmail.com" target="_blank">![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/francopignanelli/)
 <a href="mailto:francopignanelli@outlook.com" target="_blank">
 <a href="https://www.youtube.com/@asimovcode" target="_blank">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCV_jmqkyRwFyoC3_FWpVdVQ?color=%230072b1&label=Asimov%20Code&style=for-the-badge)<a/> 
